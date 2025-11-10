@@ -2,7 +2,7 @@
 
 ## 🌐 Switch Language
 
-[Português (Brasil) 🇧🇷](README-pt_br.md)
+[Português (Brasil) 🇧🇷](README-pt_BR.md)
 
 ---
 
@@ -11,7 +11,7 @@
 ### 🌟 What You Will Find
 
 * **Code Recipes:** Prompts for refactoring, modernization, and optimization.
-* **Documentation Focus:** Prompts to generate clear READMEs, JSDocs, and inline comments.
+* **Documentation Focus:** Prompts to generate clear READMEs.
 * **Testing:** Prompts for fast unit test and mockup generation.
 * **Security & Debugging:** Recipes for identifying vulnerabilities and complex error diagnosis.
 
