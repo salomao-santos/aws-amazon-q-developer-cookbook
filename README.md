@@ -1,2 +1,12 @@
-# aws-amazon-q-developer-cookbook
-Unlock the full power of Amazon Q Developer! This essential library of tested prompts revolutionizes your workflow. Leverage our recipes to maximize productivity and elevate quality across the board: creating/optimizing code and documentation, generating tests, and integrating robust security practices.
+# 📚 AWS Amazon Q Developer Cookbook
+
+## 🌐 Language / Idioma
+
+**Selecione o seu idioma preferido / Please select your preferred language:**
+
+| Language | Arquivo / File |
+| :--- | :--- |
+| **English 🇬🇧** | [View README in English](README-en.md) |
+| **Português (Brasil) 🇧🇷** | [Visualizar README em Português](README-pt_br.md) |
+
+---
