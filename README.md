@@ -4,6 +4,7 @@ Unlock the full power of Amazon Q Developer! This essential library of tested pr
 
 ## 📚 Table of Contents
 
+- [Quick Start](./QUICKSTART.md) ⚡ - **New to the cookbook? Start here!**
 - [Overview](#overview)
 - [Recipe Categories](#recipe-categories)
 - [Getting Started](#getting-started)
